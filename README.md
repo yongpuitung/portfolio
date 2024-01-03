@@ -1,12 +1,34 @@
 # Data Analyst
 
-### Education
-- Master of Anlytics, RMIT University
-- Master of Arts (MA) in Social Sciences, Waseda University
+#### Technical Skills: R, Python, SQL, GCP, GA4
 
-### Work Experience
-**Digital Marketing Analyst @ Prolong Lash (Mar 2023 - Present)**
+## Education
+- Master of Anlytics | RMIT University at Melbourne 								       		
+- Master of Arts (Social Sciences)	| Waseda University at Tokyo		        		
+- Bachelor of Arts (Japanese Studies) | The Chinese University of Hong Kong
 
-**Data EngineerData Engineer @ Admazes(Jul 2022 - Present)**
+## Work Experience
+**Digital Marketing Analyst @ Prolong Lash (_March 2023 - Present_)**
+- Manage and optimize advertising campaigns across Google Ads and Meta Ads for maximum ROI
+- Prepare reports on KPIs to track campaign effectiveness and provide actionable recommendations
+- Utilize GA4 to analyze website traffic, user behaviour and conversion funnels. Extract actionable insights to optimize marketing efforts
 
-**Client Solutions Manager @ httpool (Oct 2023 - Jun 2022)**
+**Data Engineer @ Admazes (_July 2022 - Present_)**
+- Assisted with the development of models and provided solutions using Google Cloud Platform
+- Processed, manipulated, stored and parsed data in data pipelines
+- Created dashboards by leveraging data from BigQuery and Firebase through an efficient, cost-effective data streaming pipeline process
+  
+**Client Solutions Manager @ httpool (_October 2023 - June 2022_)**
+- Onboard new strategic business clients from the introduction of features to assistance with campaign creation and optimization
+
+
+## Projects
+### Data Wrangling
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
+
+## Youtube Video
+- [What is Data Science? Difference between Data Analyst, Engineer & Scientist]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=bCpf-_WHhCE))
+
+## Publications
+- [Blog](https://medium.com/@cserinhk)
