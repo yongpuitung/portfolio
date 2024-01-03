@@ -28,7 +28,7 @@
 
 
 ## Youtube Video
-- [What is Data Science? Difference between Data Analyst, Engineer & Scientist]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=bCpf-_WHhCE))
+- [What is Data Science? Difference between Data Analyst, Engineer & Scientist](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=bCpf-_WHhCE)
 
 ## Publications
 - [Blog](https://medium.com/@cserinhk)
