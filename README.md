@@ -23,12 +23,12 @@
 
 
 ## Projects
-### Data Wrangling
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
+### R
+1. [Data Wrangling Project](https://github.com/yongpuitung/Spotify-Data-Preprocessing)
+In this project, I utilize R to preprocess Spotify's "Unpopular Songs" and "Genre of Artists" datasets from Kaggle. Following Hadley Wickham’s “Tidy Data” principles, I have cleaned up all types of messy data to ensure the resulting clean dataset is ready for statistical analysis, ensuring accurate and ethical data practices.
 
 ## Youtube Video
-- [What is Data Science? Difference between Data Analyst, Engineer & Scientist](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=bCpf-_WHhCE)
+- [What is Data Science? Difference between Data Analyst, Engineer & Scientist](https://www.youtube.com/watch?v=bCpf-_WHhCE)
 
 ## Publications
 - [Blog](https://medium.com/@cserinhk)
