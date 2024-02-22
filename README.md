@@ -23,20 +23,14 @@
 
 
 ## Projects
-### Using R
-*Data Wrangling Project
-   
-  *In this project, I utilize R to preprocess Spotify's "Unpopular Songs" and "Genre of Artists" datasets from Kaggle. Following Hadley Wickham’s “Tidy Data” principles, I have cleaned up all types of messy data to ensure the resulting clean dataset is ready for statistical analysis, ensuring accurate and ethical data practices.
+### Data Wrangling Project
+In this project, I utilize R to preprocess Spotify's "Unpopular Songs" and "Genre of Artists" datasets from Kaggle. Following Hadley Wickham’s “Tidy Data” principles, I have cleaned up all types of messy data to ensure the resulting clean dataset is ready for statistical analysis, ensuring accurate and ethical data practices.
+[Code](https://github.com/yongpuitung/Spotify-Data-Preprocessing)
+[Blog With Explanation](https://medium.com/@cserinhk/my-first-data-wrangling-project-using-r-52af4c2e1885)
 
-  *[Code](https://github.com/yongpuitung/Spotify-Data-Preprocessing)
-
-  *[Blog With Explanation](https://medium.com/@cserinhk/my-first-data-wrangling-project-using-r-52af4c2e1885)
-
-*Regression Project
-   
-  *This project focuses on predictive modeling for sports car prices, leveraging statistical analysis in RStudio. The goal is to develop robust linear regression models that effectively predict sports car prices based on their functional and technical attributes.
-
-  *[Code](https://github.com/yongpuitung/Sports-Car-Price-Regression)
+### Regression Project
+This project focuses on predictive modeling for sports car prices, leveraging statistical analysis in RStudio. The goal is to develop robust linear regression models that effectively predict sports car prices based on their functional and technical attributes.
+[Code](https://github.com/yongpuitung/Sports-Car-Price-Regression)
 
 
 ## Youtube Video
