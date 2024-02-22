@@ -32,6 +32,13 @@ In this project, I utilize R to preprocess Spotify's "Unpopular Songs" and "Genr
 
 [Blog With Explanation](https://medium.com/@cserinhk/my-first-data-wrangling-project-using-r-52af4c2e1885)
 
+2. Regression Project
+   
+This project focuses on predictive modeling for sports car prices, leveraging statistical analysis in RStudio. The goal is to develop robust linear regression models that effectively predict sports car prices based on their functional and technical attributes.
+
+[Code](https://github.com/yongpuitung/Sports-Car-Price-Regression)
+
+
 ## Youtube Video
 - [What is Data Science? Difference between Data Analyst, Engineer & Scientist](https://www.youtube.com/watch?v=bCpf-_WHhCE)
 
