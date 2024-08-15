@@ -40,6 +40,8 @@ In this project, I deconstruct and reconstruct a "problematic" data visualisatio
 
 [Data Visualization Project R Code](https://github.com/yongpuitung/Deconstruct-Reconstruct-Data-Visualisation)
 
+[Blog With Explanation](https://medium.com/@cserinhk/why-is-this-data-visualization-problematic-and-how-do-i-fix-it-4feadd1e8c81)
+
 
 ## Youtube Video
 - [What is Data Science? Difference between Data Analyst, Engineer & Scientist](https://www.youtube.com/watch?v=bCpf-_WHhCE)
