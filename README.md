@@ -3,8 +3,8 @@
 #### Technical Skills: R, Python, SQL, GCP, GA4
 
 ## Education
-- Master of Anlytics | RMIT University at Melbourne | GPA: 4.0 (High Distinction)					       		
-- Master of Arts (Social Sciences)	| Waseda University at Tokyo | Ting Hsin International Scholarship	
+- Master of Anlytics | RMIT University Melbourne | GPA: 4.0 (High Distinction)					       		
+- Master of Arts (Social Sciences)	| Waseda University Tokyo | Ting Hsin International Scholarship	
 - Bachelor of Arts (Japanese Studies) | The Chinese University of Hong Kong | Haruna Scholarship, Scholarship for Study in Japan (JSSO), Dean's Honours List
 
 ## Work Experience
