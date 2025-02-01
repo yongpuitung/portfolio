@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e69610c5-9a36-4eb2-a60d-5330e9bc48ef)# Data Analyst | Digital Marketing Specialist
+![image](https://github.com/user-attachments/assets/e69610c5-9a36-4eb2-a60d-5330e9bc48ef)# Data Analyst, Digital Marketing Specialist
 
 #### Technical Skills: R, Python, SQL, GCP, GA4
 
