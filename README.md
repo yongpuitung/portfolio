@@ -1,4 +1,4 @@
-# Data Analyst
+![image](https://github.com/user-attachments/assets/e69610c5-9a36-4eb2-a60d-5330e9bc48ef)# Data Analyst
 
 #### Technical Skills: R, Python, SQL, GCP, GA4
 
@@ -9,18 +9,27 @@
 
 ## Work Experience
 **Digital Marketing Analyst @ Prolong Lash (_March 2023 - Present_)**
-- Manage and optimize advertising campaigns across Google Ads and Meta Ads for maximum ROI
-- Prepare reports on KPIs to track campaign effectiveness and provide actionable recommendations
-- Utilize GA4 to analyze website traffic, user behaviour and conversion funnels. Extract actionable insights to optimize marketing efforts
+- Customized Google Analytics 4 (GA4) settings, including events to track and analyse key e-commerce metrics and organic search performance, enabling in-depth analysis of the customer journey, optimization of the online shopping experience, identification of opportunities for efficient allocation of advertising budgets across multiple paid channels (search and social)
+- Conducted in-depth keyword research and competitor analysis using Google Search Console and SEMrush, resulting in SEO and PPC keyword recommendations. Collaborated with content teams to align blog content creation and optimize website content, achieving a 43% improvement in search rankings for target keywords
+- Managed and consolidated data from multiple platforms including Shopify, GA4, Google Search Console and Meta Ad Manager for US, UK and AU markets to drive holistic business insights
+- Leveraged data from Shopify, ShipBob, Amazon and internal warehouse systems to analyse product demand trends and patterns, forecast sales and inventory levels and inform marketing strategies, including order management and campaign planning
 
-**Data Engineer @ Admazes (_July 2022 - Present_)**
+**Account Manager @ Donohue Consultancy (_October 2024 - January 2025_)**
+- Managed Google Ads campaigns for 8 clients across various industries, to optimize ads performance. Regularly analysed keyword rankings, search trends and competitor insights, resulting in 30% improvement in ROAS
+- Designed and implemented customized dashboards on Databox to provide clients with real-time insights into Google Ads performance
+  
+**Data Engineer @ Admazes (_July 2022 - July 2024_)**
 - Assisted with the development of models and provided solutions using Google Cloud Platform
 - Processed, manipulated, stored and parsed data in data pipelines
 - Created dashboards by leveraging data from BigQuery and Firebase through an efficient, cost-effective data streaming pipeline process
   
-**Client Solutions Manager @ httpool (_October 2023 - June 2022_)**
-- Onboard new strategic business clients from the introduction of features to assistance with campaign creation and optimization
+**Client Solutions Manager @ httpool (_October 2021 - June 2022_)**
+- Created and set up paid search campaigns on Google Ads. Continuously analysed, optimized daily performance and adjusted paid search strategies to maximise revenue growth
+- Developed compelling copies and creative content for social media and Meta Ads campaigns, tailored to client needs and target audiences, resulting in a 17% improvement in ad click-through rates
 
+**Account Manager @ Social Strategy Hong Kong (_October 2017 - October 2021_)**
+- Project leader on the development of 30+ marketing campaigns, resulting in a 18% increase in sales within six months. Led a team of five through the entire marketing campaign lifecycle, which involved pitching ideas, providing quotations, preparing reports and cultivating relationships with customers
+- Set up and managed 50+ Meta Ads campaigns, performed A/B testing on headlines, ad creatives and landing pages, leading to a 15% increase in conversion rates
 
 ## Projects
 ### Data Wrangling Project - Spotify Unpopular Songs
